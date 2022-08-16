@@ -1,0 +1,20 @@
+c:\users\ditec\documents\visual studio 2012\Projects\Admin\Admin\bin\Debug\Admin.exe.config
+c:\users\ditec\documents\visual studio 2012\Projects\Admin\Admin\bin\Debug\Admin.exe
+c:\users\ditec\documents\visual studio 2012\Projects\Admin\Admin\bin\Debug\Admin.pdb
+c:\users\ditec\documents\visual studio 2012\Projects\Admin\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+c:\users\ditec\documents\visual studio 2012\Projects\Admin\Admin\obj\Debug\Admin.Form1.resources
+c:\users\ditec\documents\visual studio 2012\Projects\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+c:\users\ditec\documents\visual studio 2012\Projects\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.Cache
+c:\users\ditec\documents\visual studio 2012\Projects\Admin\Admin\obj\Debug\Admin.exe
+c:\users\ditec\documents\visual studio 2012\Projects\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\Ditec\Documents\Visual Studio 2012\Projects\Admin\Admin\obj\Debug\Admin.Form5.resources
+C:\Users\Ditec\Documents\Visual Studio 2012\Projects\Admin\Admin\obj\Debug\Admin.Form6.resources
+C:\Users\Ditec\Documents\Visual Studio 2012\Projects\Admin\Admin\obj\Debug\Admin.Form7.resources
+C:\Users\Ditec\Documents\Visual Studio 2012\Projects\Admin\Admin\obj\Debug\Admin.Form8.resources
+C:\Users\Ditec\Documents\Visual Studio 2012\Projects\Admin\Admin\obj\Debug\Admin.Form3.resources
+E:\admin last\Admin\bin\Debug\Admin.exe.config
+E:\admin last\Admin\obj\Debug\Admin.exe
+E:\admin last\Admin\obj\Debug\Admin.pdb
+G:\admin last\Admin\bin\Debug\Admin.exe.config
+G:\admin last\Admin\obj\Debug\Admin.exe
+G:\admin last\Admin\obj\Debug\Admin.pdb
